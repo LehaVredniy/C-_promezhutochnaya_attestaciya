@@ -1,0 +1,15 @@
+C:\Users\кто то\Desktop\HWseminar9\task_64_PrintEvenNum\bin\Debug\net6.0\task_64_PrintEvenNum.exe
+C:\Users\кто то\Desktop\HWseminar9\task_64_PrintEvenNum\bin\Debug\net6.0\task_64_PrintEvenNum.deps.json
+C:\Users\кто то\Desktop\HWseminar9\task_64_PrintEvenNum\bin\Debug\net6.0\task_64_PrintEvenNum.runtimeconfig.json
+C:\Users\кто то\Desktop\HWseminar9\task_64_PrintEvenNum\bin\Debug\net6.0\task_64_PrintEvenNum.dll
+C:\Users\кто то\Desktop\HWseminar9\task_64_PrintEvenNum\bin\Debug\net6.0\task_64_PrintEvenNum.pdb
+C:\Users\кто то\Desktop\HWseminar9\task_64_PrintEvenNum\obj\Debug\net6.0\task_64_PrintEvenNum.csproj.AssemblyReference.cache
+C:\Users\кто то\Desktop\HWseminar9\task_64_PrintEvenNum\obj\Debug\net6.0\task_64_PrintEvenNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\кто то\Desktop\HWseminar9\task_64_PrintEvenNum\obj\Debug\net6.0\task_64_PrintEvenNum.AssemblyInfoInputs.cache
+C:\Users\кто то\Desktop\HWseminar9\task_64_PrintEvenNum\obj\Debug\net6.0\task_64_PrintEvenNum.AssemblyInfo.cs
+C:\Users\кто то\Desktop\HWseminar9\task_64_PrintEvenNum\obj\Debug\net6.0\task_64_PrintEvenNum.csproj.CoreCompileInputs.cache
+C:\Users\кто то\Desktop\HWseminar9\task_64_PrintEvenNum\obj\Debug\net6.0\task_64_PrintEvenNum.dll
+C:\Users\кто то\Desktop\HWseminar9\task_64_PrintEvenNum\obj\Debug\net6.0\refint\task_64_PrintEvenNum.dll
+C:\Users\кто то\Desktop\HWseminar9\task_64_PrintEvenNum\obj\Debug\net6.0\task_64_PrintEvenNum.pdb
+C:\Users\кто то\Desktop\HWseminar9\task_64_PrintEvenNum\obj\Debug\net6.0\task_64_PrintEvenNum.genruntimeconfig.cache
+C:\Users\кто то\Desktop\HWseminar9\task_64_PrintEvenNum\obj\Debug\net6.0\ref\task_64_PrintEvenNum.dll

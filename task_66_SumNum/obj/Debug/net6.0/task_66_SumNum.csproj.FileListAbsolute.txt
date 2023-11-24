@@ -1,0 +1,15 @@
+C:\Users\кто то\Desktop\HWseminar9\task_66_SumNum\bin\Debug\net6.0\task_66_SumNum.exe
+C:\Users\кто то\Desktop\HWseminar9\task_66_SumNum\bin\Debug\net6.0\task_66_SumNum.deps.json
+C:\Users\кто то\Desktop\HWseminar9\task_66_SumNum\bin\Debug\net6.0\task_66_SumNum.runtimeconfig.json
+C:\Users\кто то\Desktop\HWseminar9\task_66_SumNum\bin\Debug\net6.0\task_66_SumNum.dll
+C:\Users\кто то\Desktop\HWseminar9\task_66_SumNum\bin\Debug\net6.0\task_66_SumNum.pdb
+C:\Users\кто то\Desktop\HWseminar9\task_66_SumNum\obj\Debug\net6.0\task_66_SumNum.csproj.AssemblyReference.cache
+C:\Users\кто то\Desktop\HWseminar9\task_66_SumNum\obj\Debug\net6.0\task_66_SumNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\кто то\Desktop\HWseminar9\task_66_SumNum\obj\Debug\net6.0\task_66_SumNum.AssemblyInfoInputs.cache
+C:\Users\кто то\Desktop\HWseminar9\task_66_SumNum\obj\Debug\net6.0\task_66_SumNum.AssemblyInfo.cs
+C:\Users\кто то\Desktop\HWseminar9\task_66_SumNum\obj\Debug\net6.0\task_66_SumNum.csproj.CoreCompileInputs.cache
+C:\Users\кто то\Desktop\HWseminar9\task_66_SumNum\obj\Debug\net6.0\task_66_SumNum.dll
+C:\Users\кто то\Desktop\HWseminar9\task_66_SumNum\obj\Debug\net6.0\refint\task_66_SumNum.dll
+C:\Users\кто то\Desktop\HWseminar9\task_66_SumNum\obj\Debug\net6.0\task_66_SumNum.pdb
+C:\Users\кто то\Desktop\HWseminar9\task_66_SumNum\obj\Debug\net6.0\task_66_SumNum.genruntimeconfig.cache
+C:\Users\кто то\Desktop\HWseminar9\task_66_SumNum\obj\Debug\net6.0\ref\task_66_SumNum.dll
